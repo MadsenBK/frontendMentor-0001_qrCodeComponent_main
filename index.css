@@ -12,7 +12,7 @@ body {
 
 main {
 	width: 300px;
-	height: 450px;
+	height: 475px;
 
 	position: absolute;
 	top: 0;
@@ -40,7 +40,7 @@ main {
 }
 
 .bold {
-	font-size: 22px;
+	font-size: 23px;
 	font-weight: 700px;
 	color: var(--darkBlue);
 	width: 290px;
@@ -48,7 +48,7 @@ main {
 
 p {
 	font-weight: 400px;
-	font-size: 15px;
+	font-size: 16px;
 	color: hsl(218, 44%, 22%, 0.5);
 	width: 260px;
 	padding-bottom: 20px;
